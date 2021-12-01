@@ -1,0 +1,123 @@
+f high
+motor
+speed
+end cove
+bearing
+in the
+he roundnes
+Abstract:
+high
+speed
+mperature ir
+| Totation
+n the nois
+ise and
+sreat inflt
+fluence 0!
+has a
+ee,
+the
+product
+> it is
+mprove |
+In orde
+> motor.
+or of the
+high
+round
+letect |
+necessary
+ccurately
+viation
+greater
+roundness
+han a
+with r
+Remove
+notor.
+speed
+| adjustab
+Jectric d
+Speed
+n and a
+> photoele
+tection
+on this,
+value.
+Based o:
+certai1
+photoelect
+. Ra AVersionl
+weak
+studied,
+- signal
+turntable
+studied.
+rntable }
+yelopment of t
+lacement |
+f the tested
+STM3 2F103
+Adopt S
+> fixed
+parts of tl
+)3C8T6 as
+is driven by
+iree-claw
+yn of the
+chuck i
+parts
+motor,
+lifting
+and the
+Servo |
+workpiece
+detected.
+f the
+The
+sensor
+detected
+ervo moto!
+vire rod _
+r driving
+ig and de
+etecting
+sensor.
+iheonen
+ictual 3
+urement,
+otodiode
+nicro-dis
+placement
+detection
+mn circuit
+detect tt
+cement cl
+| displa
+Se
+change
+) mm+2
+range
+mm; th
+otating
+speed of
+0-500
+turntable
+reach |
+> load can t
+> within
+50 kg.
+an meet the
+size
+general |
+rotating
+5 parts
+detection.
+Keywords
+Single chi
+Photoelectric
+displacement
+detection;
+yundness me
+easurement ;
+turntab|
